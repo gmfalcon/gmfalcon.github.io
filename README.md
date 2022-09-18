@@ -1,6 +1,6 @@
 # gmfalcon.github.io
 
-A portfolio site for my profile & working profile. Huh!
+A portfolio site for my profile & working profile.
 
 
 ## Authors
@@ -10,4 +10,4 @@ A portfolio site for my profile & working profile. Huh!
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Discord](https://discord.gg/dF4PHxbHpA).
+If you have any feedback, please reach out to us at [Discord](https://discord.gg/dF4PHxbHpA) - Byte Hub
