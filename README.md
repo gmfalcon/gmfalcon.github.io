@@ -1,6 +1,6 @@
 # gmfalcon.github.io
 
-A portfolio site for my profile & working profile. Huh!
+A portfolio site for my profile & working profile.
 
 
 ## Authors
